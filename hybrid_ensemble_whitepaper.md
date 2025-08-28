@@ -106,4 +106,4 @@ This paper is both a technical blueprint and a vision statement for the future o
 
 ---
 
-✍️ *Written by Ali — AI Researcher & Developer, GhostSight Project*
+*Written by Ali Beydili — AI Researcher & Developer, GhostSight Project*
